@@ -11,7 +11,7 @@
 -->
 
 
-## 📫 How to reach me
+## 📫 Como chegar até mim
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunoaraujokitrim/)
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/bruno.araujo.7355/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/_brunoarauj_o/)
