@@ -8,7 +8,7 @@
 - 📚 Formado em Rede de Computadores
 - 🌱 Sempre em busca de ser uma pessoa e um profissional melhor
 - 🤘 Hobbies: Estar com a minha esposa, games, estudar investimento, ler.
--->
+
 
 
 ## 📫 Como chegar até mim
