@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/BrunoAneves/BrunoAneves)](https://badges.pufler.dev/visits/BrunoAneves/BrunoAneves)
-![](https://api.visitorbadge.io/api/VisitorHit?BrunoAneves=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ### Olá! Eu sou o Bruno Araujo😃
 
