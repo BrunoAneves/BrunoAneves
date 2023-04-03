@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como editor de vídeo
-- 📖 Aprendendo html, css e javascript
+- 📖 Aprendendo React
 - 📚 Formado em Rede de Computadores
 - 🌱 Sempre em busca de ser uma pessoa e um profissional melhor
 - 🤘 Hobbies: Estar com a minha esposa, games, estudar investimento, ler.
